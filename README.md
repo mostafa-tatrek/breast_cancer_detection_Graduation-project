@@ -1,11 +1,11 @@
-# breast cancer detection using CNN
+# Breast Cancer Detection using CNN
 breast cancer detection using CNN (DL)
 
 Applying two CNN models using a large dataset consisting of 277,000
 histopathology images, and 54,000 X-ray images
 
 
-# dataset source #
+# Dataset source #
 https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 https://www.kaggle.com/datasets/theoviel/rsna-breast-cancer-512-pngs
 
@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/theoviel/rsna-breast-cancer-512-pngs
 * Outputs and Outcomes
 * Save &Loaded Model
 
-# models deployment #
+# Models deployment #
 * Save the models in h5 format (after finishing training and testing)
 * Converting the h5 model to tflite format
 * Deploy the two models to Firebase in order to work with the mobile app
