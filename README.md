@@ -19,3 +19,10 @@ https://www.kaggle.com/datasets/theoviel/rsna-breast-cancer-512-pngs
 * Modeling
 * Outputs and Outcomes
 * Save &Loaded Model
+
+# models deployment #
+* Save the models in h5 format (after finishing training and testing)
+* Converting the h5 model to tflite format
+* Deploy the two models to Firebase in order to work with the mobile app
+* Connecting the two models to the mobile app for model inference
+* The mobile app is in the following link: https://github.com/salahalshafey/breast_cancer_awareness.git
