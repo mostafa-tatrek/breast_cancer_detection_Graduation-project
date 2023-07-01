@@ -6,8 +6,8 @@ histopathology images, and 54,000 X-ray images
 
 
 # Dataset source #
-https://www.kaggle.com/paultimothymooney/breast-histopathology-images
-https://www.kaggle.com/datasets/theoviel/rsna-breast-cancer-512-pngs
+* https://www.kaggle.com/paultimothymooney/breast-histopathology-images
+* https://www.kaggle.com/datasets/theoviel/rsna-breast-cancer-512-pngs
 
 
 # Notebooks agenda #
