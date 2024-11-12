@@ -23,6 +23,6 @@ histopathology images, and 54,000 X-ray images
 # Models deployment #
 * Save the models in h5 format (after finishing training and testing)
 * Converting the h5 model to tflite format
-* Deploy the two models to Firebase in order to work with the single web interfase using flask
+* Deploy the two models  in order to work with the single web interfase using flask
 
 
